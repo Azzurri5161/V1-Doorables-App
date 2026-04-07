@@ -1,0 +1,1 @@
+export const GITHUB_URL = "https://raw.githubusercontent.com/Azzurri5161/Doorables-Data/main/doorables_master_hub.json";
